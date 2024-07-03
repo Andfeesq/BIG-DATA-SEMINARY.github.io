@@ -1,0 +1,575 @@
+car_model,price,year_model,kms,color,fueltype
+Logan 1600,18000000,2008,131.362,Rojo,Gasolina y gas
+Logan Intense At ,50500000,2019,52.903,Gris,Gasolina
+Logan Life 8v Fl 2021,41500000,2021,32,Rojo,Gasolina
+Logan Privilege At,38000000,2017,99.729,Dorado,Gasolina
+Logan Zen. Full Equipo 2023 Motor 1.6  4 Airbag  Rin De Lujo,58900000,2023,7,Gris,Gasolina
+Renault Koleos 2.5 Dynamique 4x4,44900000,2014,96,Blanco,Gasolina
+Renault Logal Zen 2023,60900000,2023,21.5,Gris,Gasolina
+Renault Logan,37900000,2020,52,Plateado,Gasolina
+Renault Logan,35000000,2016,78.066,Rojo,Gasolina
+Renault Logan,23500000,2011,112,Gris,Gasolina
+Renault Logan,55900000,2023,27.05,Blanco,Gasolina
+"Renault Logan 1,6 AUTHENTIC/LIFE MT",44500000,2023,30.726,Gris,Gasolina
+Renault Logan 1.4 2009,23000000,2009,115,Gris,Gasolina
+Renault Logan 1.4 Dynamique,18000000,2006,185,Gris,Gasolina
+Renault Logan 1.4 Dynamique,20000000,2008,175.2,Color not found,Gasolina
+Renault Logan 1.4 Dynamique,18900000,2006,170,Color not found,Gasolina
+Renault Logan 1.4 Dynamique,20900000,2007,92,Plateado,Gasolina
+Renault Logan 1.4 Dynamique,17490000,2006,242,Verde,Gasolina
+Renault Logan 1.4 Dynamique,17000000,2006,208,Blanco,Gasolina
+Renault Logan 1.4 Dynamique,20900000,2007,179,Rojo,Gasolina
+Renault Logan 1.4 Dynamique,18000000,2006,147.8,Plateado,Gasolina
+Renault Logan 1.4 Dynamique,18000000,2007,194,Color not found,Gasolina
+Renault Logan 1.4 Entry Familier,23000000,2009,182,Azul,Gasolina
+Renault Logan 1.4 Entry Familier,22000000,2011,131,Gris,Gasolina
+Renault Logan 1.4 Entry Familier,22900000,2011,130,Gris,Gasolina
+Renault Logan 1.4 Entry Familier,22900000,2011,112,Azul,Gasolina
+Renault Logan 1.4 Entry Familier,22500000,2011,121,Gris,Gasolina
+Renault Logan 1.4 Entry Familier,21900000,2011,160,Color not found,Gasolina
+Renault Logan 1.4 Entry Familier,27900000,2011,76.5,Negro,Gasolina
+Renault Logan 1.4 Entry Familier,22500000,2010,101,Rojo,Gasolina
+Renault Logan 1.4 Entry Familier,21000000,2010,204,Blanco,Gasolina
+Renault Logan 1.4 Entry Familier,24500000,2011,84,Rojo,Gasolina
+Renault Logan 1.4 Entry Familier,20500000,2010,175,Negro,Gasolina
+Renault Logan 1.4 Entry Familier,24000000,2011,208.026,Negro,Gasolina
+Renault Logan 1.4 Entry Familier,24900000,2011,102.5,Gris,Gasolina
+Renault Logan 1.4 Entry Familier,20500000,2011,198.6,Color not found,Gasolina
+Renault Logan 1.4 Entry Familier,22000000,2011,145,Color not found,Gasolina
+Renault Logan 1.4 Entry Familier,22000000,2010,188.081,Azul,Gasolina
+Renault Logan 1.4 Entry Familier,20000000,2011,128.5,Color not found,Gasolina
+Renault Logan 1.4 Entry Familier,19000000,2009,113,Color not found,Gasolina
+Renault Logan 1.4 Entry Familier,23000000,2010,158,Gris,Gasolina
+Renault Logan 1.4 Entry Familier,23000000,2011,113,Rojo,Gasolina
+Renault Logan 1.4 Entry Familier Fii,27500000,2013,99.4,Gris,Gasolina
+Renault Logan 1.4 Entry Familier Fii,23500000,2013,207,Rojo,Gasolina
+Renault Logan 1.4 Entry Familier Fii,29900000,2016,68,Plateado,Gasolina
+Renault Logan 1.4 Entry Familier Fii,26800000,2014,134,Gris,Gasolina
+Renault Logan 1.4 Entry Familier Fii,28500000,2016,113.2,Color not found,Gasolina
+Renault Logan 1.4 Entry Familier Fii,25000000,2012,184,Gris,Gasolina
+Renault Logan 1.4 Entry Familier Fii,24500000,2013,227,Blanco,Gasolina
+Renault Logan 1.4 Entry Familier Fii,23990000,2012,153,Gris,Gasolina
+Renault Logan 1.4 Entry Familier Fii,30000000,2015,133.634,Rojo,Gasolina
+Renault Logan 1.4 Entry Familier Fii,26900000,2013,130,Color not found,Gasolina
+Renault Logan 1.4 Entry Familier Fii,23900000,2014,149,Negro,Gasolina
+Renault Logan 1.4 Entry Familier Fii,23900000,2012,127,Verde,Gasolina
+Renault Logan 1.4 Entry Familier Fii,25990000,2015,170,Gris,Gasolina
+Renault Logan 1.4 Entry Familier Fii,25500000,2012,109,Rojo,Gasolina
+Renault Logan 1.4 Entry Familier Fii,23500000,2012,119,Color not found,Gasolina
+Renault Logan 1.4 Entry Familier Fii,25500000,2012,119.07,Rojo,Gasolina
+Renault Logan 1.4 Entry Familier Fii,27900000,2014,113,Color not found,Gasolina
+Renault Logan 1.4 Entry Familier Fii,23800000,2014,99,Gris,Gasolina
+Renault Logan 1.4 Entry Familier Fii,23000000,2011,101,Color not found,Gasolina
+Renault Logan 1.4 Entry Familier Fii,25500000,2013,120,Gris,Gasolina
+Renault Logan 1.4 Entry Familier Fii,23500000,2013,139.68,Negro,Gasolina
+Renault Logan 1.4 Entry Familier Fii,22500000,2013,139,Plateado,Gasolina
+Renault Logan 1.4 Entry Familier Fii,32000000,2016,90.5,Rojo,Gasolina
+Renault Logan 1.4 Entry Familier Fii,23000000,2014,138,Negro,Gasolina
+Renault Logan 1.4 Entry Familier Fii,31500000,2015,64,Color not found,Gasolina
+Renault Logan 1.4 Entry Familier Fii,25000000,2015,171,Gris,Gasolina
+Renault Logan 1.4 Entry Familier Fii,28500000,2012,71,Rojo,Gasolina
+Renault Logan 1.4 Entry Familier Fii,22500000,2011,107,Plateado,Gasolina
+Renault Logan 1.4 Entry Familier Fii,26000000,2015,115,Negro,Gasolina
+Renault Logan 1.4 Entry Familier Fii,24500000,2012,153,Rojo,Gasolina
+Renault Logan 1.4 Entry Familier Fii,23000000,2013,102.7,Rojo,Gasolina
+Renault Logan 1.4 Entry Familier Fii,23600000,2013,87,Negro,Gasolina
+Renault Logan 1.4 Entry Familier Fii,22500000,2012,161,Color not found,Gasolina
+Renault Logan 1.4 Entry Familier Fii,27000000,2016,150,Color not found,Gasolina
+Renault Logan 1.4 Expression,20500000,2007,170,Color not found,Gasolina
+Renault Logan 1.4 Expression,20000000,2007,180,Blanco,Gasolina
+Renault Logan 1.4 Expression,19800000,2006,145,Color not found,Gasolina
+Renault Logan 1.4 Expression,19500000,2008,166,Gris,Gasolina
+Renault Logan 1.4 Expression,18400000,2006,139,Azul,Gasolina
+Renault Logan 1.4 Expression,18300000,2006,131,Gris,Gasolina
+Renault Logan 1.4 Expression,18500000,2006,145,Gris,Gasolina
+Renault Logan 1.4 Expression,18900000,2008,125,Color not found,Gasolina
+Renault Logan 1.4 Expression,20500000,2007,124.043,Gris,Gasolina
+Renault Logan 1.4 Familiar A.C,33800000,2016,118,Color not found,Hibrido
+Renault Logan 1.6,33500000,2018,59.8,Gris,Gasolina
+Renault Logan 1.6 Authentique,35000000,2016,93.784,Gris,Gasolina
+Renault Logan 1.6 Authentique,31500000,2016,127.607,Gris,Gasolina
+Renault Logan 1.6 Authentique,34000000,2018,123,Plateado,Gasolina
+Renault Logan 1.6 Authentique,41000000,2018,46.579,Dorado,Gasolina
+Renault Logan 1.6 Authentique,49990000,2022,65,Gris,Gasolina
+Renault Logan 1.6 Authentique,33000000,2017,82.3,Gris,Gasolina
+Renault Logan 1.6 Authentique,36500000,2019,48.5,Gris,Gasolina
+Renault Logan 1.6 Authentique,39500000,2019,48.6,Color not found,Gasolina
+Renault Logan 1.6 Authentique,33200000,2017,78,Color not found,Gasolina
+Renault Logan 1.6 Authentique,33950000,2017,57,Gris,Gasolina
+Renault Logan 1.6 Authentique,38000000,2018,44,Blanco,Gasolina
+Renault Logan 1.6 Authentique,34900000,2017,86,Color not found,Gasolina
+Renault Logan 1.6 Authentique,42500000,2022,68,Color not found,Gasolina
+Renault Logan 1.6 Authentique,33000000,2017,126,Color not found,Gasolina
+Renault Logan 1.6 Authentique,34000000,2017,80,Plateado,Gasolina
+Renault Logan 1.6 Authentique,36000000,2017,36,Gris,Gasolina y gas
+Renault Logan 1.6 Authentique,45000000,2020,17.7,Plateado,Gasolina
+Renault Logan 1.6 Authentique,31490000,2016,84,Color not found,Gasolina
+Renault Logan 1.6 Authentique,37500000,2019,71,Plateado,Gasolina
+Renault Logan 1.6 Authentique,35000000,2016,73,Rojo,Gasolina
+Renault Logan 1.6 Authentique,31500000,2017,123,Color not found,Gasolina
+Renault Logan 1.6 Authentique,32000000,2017,127,Color not found,Gasolina
+Renault Logan 1.6 Authentique,38500000,2021,44,Gris,Gasolina
+Renault Logan 1.6 Authentique,31000000,2017,90,Marron,Gasolina
+Renault Logan 1.6 Authentique / Life,55900000,2023,14,Plateado,Gasolina
+Renault Logan 1.6 Authentique / Life,49990000,2023,39.7,Gris,Gasolina
+Renault Logan 1.6 Authentique / Life,46000000,2023,47.95,Gris,Gasolina
+Renault Logan 1.6 Authentique / Life,52000000,2023,29,Plateado,Gasolina
+Renault Logan 1.6 Authentique / Life,60700000,2023,0,Gris,Gasolina
+Renault Logan 1.6 Authentique / Life,54900000,2023,32.062,Gris,Gasolina
+Renault Logan 1.6 Authentique / Life,36500000,2018,47,Gris,Gasolina
+Renault Logan 1.6 Authentique / Life,43900000,2022,37,Gris,Gasolina
+Renault Logan 1.6 Authentique / Life,41000000,2018,42.8,Negro,Gasolina
+Renault Logan 1.6 Authentique / Life,39000000,2019,66.213,Gris,Gasolina
+Renault Logan 1.6 Authentique / Life,36500000,2018,53.8,Rojo,Gasolina
+Renault Logan 1.6 Authentique / Life,35500000,2018,98,Blanco,Gasolina
+Renault Logan 1.6 Authentique / Life,35900000,2017,68,Gris,Gasolina
+Renault Logan 1.6 Authentique / Life,57000000,2023,2.2,Plateado,Gasolina
+Renault Logan 1.6 Authentique / Life,32800000,2017,78,Gris,Gasolina
+Renault Logan 1.6 Authentique / Life,54000000,2023,67.149,Gris,Gasolina
+Renault Logan 1.6 Authentique / Life,39800000,2020,43,Color not found,Gasolina
+Renault Logan 1.6 Authentique / Life,45900000,2023,11,Gris,Gasolina
+Renault Logan 1.6 Authentique / Life,33900000,2017,56,Color not found,Gasolina
+Renault Logan 1.6 Authentique / Life,45300000,2023,20,Color not found,Gasolina
+Renault Logan 1.6 Authentique / Life,44500000,2023,21,Blanco,Gasolina
+Renault Logan 1.6 Authentique / Life,41900000,2023,30,Plateado,Gasolina
+Renault Logan 1.6 Authentique / Life,43500000,2023,22.247,Color not found,Gasolina
+Renault Logan 1.6 Authentique / Life,49990000,2023,24,Blanco,Gasolina
+Renault Logan 1.6 Authentique / Life,47890000,2022,28,Blanco,Gasolina
+Renault Logan 1.6 Authentique / Life,52000000,2023,15,Gris,Gasolina
+Renault Logan 1.6 Authentique / Life,33900000,2018,98.5,Plateado,Gasolina
+Renault Logan 1.6 Authentique / Life,39500000,2019,71,Dorado,Gasolina
+Renault Logan 1.6 Authentique / Life,34900000,2018,99,Plateado,Gasolina
+Renault Logan 1.6 Authentique / Life,46500000,2022,40.208,Gris,Gasolina
+Renault Logan 1.6 Authentique / Life,37500000,2020,65,Rojo,Gasolina
+Renault Logan 1.6 Authentique / Life,34500000,2017,56,Gris,Gasolina
+Renault Logan 1.6 Authentique / Life,30500000,2017,117,Color not found,Gasolina
+Renault Logan 1.6 Authentique / Life,35500000,2018,80.1,Color not found,Gasolina
+Renault Logan 1.6 Authentique / Life,39000000,2020,70,Color not found,Gasolina
+Renault Logan 1.6 Authentique / Life,46900000,2023,29.784,Gris,Gasolina
+Renault Logan 1.6 Authentique / Life,35000000,2017,85,Gris,Gasolina
+Renault Logan 1.6 Authentique / Life,42500000,2022,47,Dorado,Gasolina
+Renault Logan 1.6 Authentique / Life,58500000,2022,18.6,Gris,Gasolina
+Renault Logan 1.6 Authentique / Life,44900000,2022,23.5,Negro,Gasolina
+Renault Logan 1.6 Authentique / Life,41500000,2019,52.5,Color not found,Gasolina
+Renault Logan 1.6 Authentique / Life,39500000,2019,71,Color not found,Gasolina
+Renault Logan 1.6 Authentique / Life,35000000,2017,113,Gris,Gasolina
+Renault Logan 1.6 Authentique / Life,40000000,2019,300.072,Color not found,Gasolina
+Renault Logan 1.6 Authentique / Life,46000000,2022,17.4,Gris,Gasolina
+Renault Logan 1.6 Automatico,47900000,2022,37,Gris,Gasolina
+Renault Logan 1.6 Dynamique,52400000,2022,10,Gris,Gasolina
+Renault Logan 1.6 Dynamique,38500000,2018,67.828,Blanco,Gasolina
+Renault Logan 1.6 Dynamique,36000000,2018,46,Plateado,Gasolina
+Renault Logan 1.6 Dynamique,36000000,2016,142.641,Gris,Gasolina
+Renault Logan 1.6 Dynamique,58000000,2023,41,Gris,Gasolina
+Renault Logan 1.6 Dynamique,21900000,2008,141,Azul,Gasolina
+Renault Logan 1.6 Dynamique,37900000,2017,66,Gris,Gasolina
+Renault Logan 1.6 Dynamique,50500000,2022,59.951,Gris,Gasolina
+Renault Logan 1.6 Dynamique,34000000,2016,96,Color not found,Gasolina
+Renault Logan 1.6 Dynamique,37500000,2019,78.4,Color not found,Gasolina
+Renault Logan 1.6 Dynamique,33500000,2016,136.446,Plateado,Gasolina
+Renault Logan 1.6 Dynamique,40000000,2017,24,Gris,Gasolina
+Renault Logan 1.6 Dynamique,37000000,2016,65,Gris,Gasolina
+Renault Logan 1.6 Dynamique,25000000,2007,189,Color not found,Gasolina
+Renault Logan 1.6 Dynamique,35000000,2016,77,Gris,Gasolina
+Renault Logan 1.6 Dynamique,13000000,2006,76.702,Rojo,Gasolina
+Renault Logan 1.6 Dynamique,18000000,2007,140,Color not found,Gasolina
+Renault Logan 1.6 Dynamique,35000000,2019,84,Gris,Gasolina
+Renault Logan 1.6 Dynamique,21000000,2008,127.089,Rojo,Gasolina
+Renault Logan 1.6 Dynamique,36500000,2020,80.35,Plateado,Gasolina
+Renault Logan 1.6 Dynamique Fii,26800000,2012,80.748,Gris,Gasolina
+Renault Logan 1.6 Dynamique Fii,30600000,2016,89.7,Rojo,Gasolina
+Renault Logan 1.6 Dynamique Fii,21500000,2011,92,Azul,Gasolina
+Renault Logan 1.6 Dynamique Fii,32000000,2016,96,Dorado,Gasolina
+Renault Logan 1.6 Dynamique Fii,28800000,2012,44,Blanco,Gasolina
+Renault Logan 1.6 Dynamique Fii,26800000,2011,142,Gris,Gasolina
+Renault Logan 1.6 Dynamique Fii,29800000,2015,75,Gris,Gasolina
+Renault Logan 1.6 Dynamique Fii,25800000,2013,98.125,Dorado,Gasolina
+Renault Logan 1.6 Dynamique Fii,32000000,2015,48,Color not found,Gasolina
+Renault Logan 1.6 Dynamique Fii,29700000,2013,131,Color not found,Gasolina
+Renault Logan 1.6 Dynamique Fii,29000000,2015,148,Gris,Gasolina
+Renault Logan 1.6 Dynamique Fii,22500000,2011,175,Azul,Gasolina
+Renault Logan 1.6 Dynamique Fii,27000000,2012,85,Negro,Gasolina
+Renault Logan 1.6 Dynamique Fii,26500000,2011,156,Gris,Gasolina
+Renault Logan 1.6 Dynamique Fii,27000000,2011,75.55,Gris,Gasolina
+Renault Logan 1.6 Dynamique Fii,33000000,2014,56,Rojo,Gasolina
+Renault Logan 1.6 Dynamique Fii,26500000,2013,138,Color not found,Gasolina
+Renault Logan 1.6 Dynamique Fii,30500000,2015,98,Color not found,Gasolina
+Renault Logan 1.6 Dynamique Fii,32000000,2014,76,Gris,Gasolina
+Renault Logan 1.6 Dynamique Fii,29000000,2014,119,Color not found,Gasolina
+Renault Logan 1.6 Dynamique Fii,30500000,2015,110,Gris,Gasolina
+Renault Logan 1.6 Dynamique Fii,33000000,2012,67,Gris,Gasolina
+Renault Logan 1.6 Dynamique Mt,20000000,2008,188,Gris,Gasolina
+Renault Logan 1.6 Dynamique Nd,20000000,2010,149.414,Negro,Gasolina
+Renault Logan 1.6 Dynamique Nd,24900000,2011,123,Azul,Gasolina
+Renault Logan 1.6 Exclusive,39500000,2018,92.55,Plateado,Gasolina
+Renault Logan 1.6 Expression,34000000,2018,78,Gris,Gasolina
+Renault Logan 1.6 Expression,36900000,2018,47,Gris,Gasolina
+Renault Logan 1.6 Expression,38000000,2018,93.3,Blanco,Gasolina
+Renault Logan 1.6 Expression,26000000,2008,114.5,Gris,Gasolina
+Renault Logan 1.6 Expression,31900000,2018,65,Plateado,Gasolina
+Renault Logan 1.6 Expression,22000000,2008,180,Amarillo,Gasolina
+Renault Logan 1.6 Expression,29000000,2017,68,Gris,Gasolina
+Renault Logan 1.6 Expression,38900000,2018,60.9,Gris,Gasolina y gas
+Renault Logan 1.6 Expression,54900000,2023,29.993,Gris,Gasolina
+Renault Logan 1.6 Expression,33900000,2016,75.8,Color not found,Gasolina
+Renault Logan 1.6 Expression,18900000,2008,143,Gris,Gasolina
+Renault Logan 1.6 Expression,36900000,2019,68,Plateado,Gasolina
+Renault Logan 1.6 Expression,52000000,2023,22.64,Dorado,Gasolina
+Renault Logan 1.6 Expression,52000000,2023,22.64,Dorado,Gasolina
+Renault Logan 1.6 Expression,38500000,2018,43,Plateado,Gasolina
+Renault Logan 1.6 Expression,40500000,2019,85.585,Color not found,Gasolina
+Renault Logan 1.6 Expression,33000000,2018,94,Color not found,Gasolina
+Renault Logan 1.6 Expression,34900000,2016,63,Plateado,Gasolina
+Renault Logan 1.6 Expression,34500000,2018,83,Blanco,Gasolina
+Renault Logan 1.6 Expression,57000000,2023,48,Color not found,Gasolina
+Renault Logan 1.6 Expression,19000000,2006,167.237,Gris,Gasolina
+Renault Logan 1.6 Expression,20000000,2008,252,Color not found,Gasolina
+Renault Logan 1.6 Expression,35000000,2018,64,Color not found,Gasolina
+Renault Logan 1.6 Expression,38500000,2019,36,Plateado,Gasolina
+Renault Logan 1.6 Expression,35000000,2017,141,Blanco,Gasolina
+Renault Logan 1.6 Expression,38500000,2018,60.9,Gris,Gasolina
+Renault Logan 1.6 Expression,35000000,2016,113.305,Color not found,Gasolina
+Renault Logan 1.6 Expression,53400000,2017,10.411,Color not found,Gasolina
+Renault Logan 1.6 Expression,34900000,2017,107,Color not found,Gasolina
+Renault Logan 1.6 Expression,20000000,2008,130,Blanco,Gasolina
+Renault Logan 1.6 Expression,36500000,2017,86.6,Azul,Gasolina
+Renault Logan 1.6 Expression,31000000,2016,140,Blanco,Gasolina
+Renault Logan 1.6 Expression,32000000,2016,80,Marron,Gasolina
+Renault Logan 1.6 Expression,35000000,2016,78,Gris,Gasolina
+Renault Logan 1.6 Expression,24500000,2016,93,Gris,Gasolina y gas
+Renault Logan 1.6 Expression,34500000,2019,70,Gris,Gasolina
+Renault Logan 1.6 Expression,27000000,2019,125.725,Negro,Gasolina
+Renault Logan 1.6 Expression,37000000,2018,85.5,Gris,Gasolina
+Renault Logan 1.6 Expression / Life +,49900000,2022,58.8,Gris,Gasolina
+Renault Logan 1.6 Expression / Life +,45900000,2020,38,Plateado,Gasolina
+Renault Logan 1.6 Expression / Life +,39200000,2019,32,Plateado,Gasolina
+Renault Logan 1.6 Expression / Life +,38999000,2019,89,Plateado,Gasolina
+Renault Logan 1.6 Expression / Life +,54490000,2023,28.1,Plateado,Gasolina
+Renault Logan 1.6 Expression / Life +,39000000,2020,34.7,Rojo,Gasolina
+Renault Logan 1.6 Expression / Life +,44900000,2022,43,Plateado,Gasolina
+Renault Logan 1.6 Expression / Life +,48500000,2022,50,Gris,Gasolina
+Renault Logan 1.6 Expression / Life +,56990000,2023,19.5,Gris,Gasolina
+Renault Logan 1.6 Expression / Life +,40900000,2021,37,Gris,Gasolina
+Renault Logan 1.6 Expression / Life +,45900000,2022,19,Color not found,Gasolina
+Renault Logan 1.6 Expression / Life +,35900000,2018,54.6,Gris,Gasolina
+Renault Logan 1.6 Expression / Life +,46900000,2023,24,Plateado,Gasolina
+Renault Logan 1.6 Expression / Life +,53000000,2022,31,Plateado,Gasolina
+Renault Logan 1.6 Expression / Life +,31800000,2018,68,Color not found,Gasolina
+Renault Logan 1.6 Expression / Life +,51000000,2022,70.886,Gris,Gasolina
+Renault Logan 1.6 Expression / Life +,51000000,2022,55.963,Gris,Gasolina
+Renault Logan 1.6 Expression / Life +,51000000,2022,64.255,Gris,Gasolina
+Renault Logan 1.6 Expression / Life +,51000000,2022,62.824,Gris,Gasolina
+Renault Logan 1.6 Expression / Life +,40300000,2022,55.7,Color not found,Gasolina
+Renault Logan 1.6 Expression / Life +,51000000,2022,53.615,Gris,Gasolina
+Renault Logan 1.6 Expression / Life +,51000000,2022,55.864,Gris,Gasolina
+Renault Logan 1.6 Expression / Life +,51000000,2022,59.015,Gris,Gasolina
+Renault Logan 1.6 Expression / Life +,51000000,2022,60.475,Gris,Gasolina
+Renault Logan 1.6 Expression / Life +,39900000,2022,40.1,Color not found,Gasolina
+Renault Logan 1.6 Expression / Life +,51000000,2022,54.445,Gris,Gasolina
+Renault Logan 1.6 Expression / Life +,51000000,2022,53.311,Gris,Gasolina
+Renault Logan 1.6 Expression / Life +,51000000,2022,54.849,Gris,Gasolina
+Renault Logan 1.6 Expression / Life +,51000000,2022,55.065,Gris,Gasolina
+Renault Logan 1.6 Expression / Life +,51000000,2022,58.962,Gris,Gasolina
+Renault Logan 1.6 Expression / Life +,51000000,2022,59.978,Gris,Gasolina
+Renault Logan 1.6 Expression / Life +,51000000,2022,62.58,Gris,Gasolina
+Renault Logan 1.6 Expression / Life +,51000000,2022,54.284,Gris,Gasolina
+Renault Logan 1.6 Expression / Life +,50000000,2022,56.472,Gris,Gasolina
+Renault Logan 1.6 Expression / Life +,69000000,2021,39,Color not found,Gasolina
+Renault Logan 1.6 Expression / Life +,51000000,2022,60.416,Gris,Gasolina
+Renault Logan 1.6 Expression / Life +,45900000,2022,21.7,Color not found,Gasolina
+Renault Logan 1.6 Expression / Life +,40500000,2020,61,Gris,Gasolina
+Renault Logan 1.6 Expression / Life +,49000000,2022,31.4,Gris,Gasolina
+Renault Logan 1.6 Expression / Life +,41900000,2020,39.9,Plateado,Gasolina
+Renault Logan 1.6 Expression / Life +,52000000,2023,28,Color not found,Gasolina
+Renault Logan 1.6 Expression / Life +,43900000,2023,28,Gris,Gasolina
+Renault Logan 1.6 Expression / Life +,37990000,2020,57,Plateado,Gasolina
+Renault Logan 1.6 Expression / Life +,45000000,2020,31,Plateado,Gasolina
+Renault Logan 1.6 Expression / Life +,42000000,2022,3.05,Gris,Gasolina
+Renault Logan 1.6 Expression / Life +,32000000,2019,54,Color not found,Gasolina
+Renault Logan 1.6 Expression / Life +,53000000,2023,18,Rojo,Gasolina
+Renault Logan 1.6 Expression / Life +,50000000,2022,28.9,Color not found,Gasolina
+Renault Logan 1.6 Expression / Life +,35000000,2017,87,Gris,Gasolina
+Renault Logan 1.6 Expression / Life +,50500000,2022,29,Plateado,Gasolina
+Renault Logan 1.6 Expression Fii,31000000,2014,69.99,Gris,Gasolina
+Renault Logan 1.6 Expression Fii,24500000,2013,135,Azul,Gasolina
+Renault Logan 1.6 Expression Fii,27000000,2013,161.35,Gris,Gasolina
+Renault Logan 1.6 Expression Fii,25700000,2012,75,Gris,Gasolina
+Renault Logan 1.6 Expression Fii,29000000,2015,107,Rojo,Gasolina
+Renault Logan 1.6 Expression Fii,28250000,2015,107,Rojo,Gasolina
+Renault Logan 1.6 Expression Fii,26500000,2013,94,Blanco,Gasolina
+Renault Logan 1.6 Expression Fii,31900000,2016,116.2,Rojo,Gasolina
+Renault Logan 1.6 Expression Fii,31900000,2014,57,Gris,Gasolina
+Renault Logan 1.6 Expression Fii,31500000,2015,78,Color not found,Gasolina
+Renault Logan 1.6 Expression Fii,24900000,2012,115,Marron,Gasolina
+Renault Logan 1.6 Expression Fii,27800000,2015,119,Gris,Gasolina
+Renault Logan 1.6 Expression Fii,26500000,2012,73.5,Color not found,Gasolina
+Renault Logan 1.6 Expression Fii,24800000,2012,118,Gris,Gasolina
+Renault Logan 1.6 Expression Fii,27800000,2015,106,Plateado,Gasolina
+Renault Logan 1.6 Expression Fii,25900000,2015,190,Gris,Gasolina
+Renault Logan 1.6 Expression Fii,26000000,2012,150.974,Color not found,Gasolina
+Renault Logan 1.6 Expression Fii,28000000,2015,86,Color not found,Gasolina
+Renault Logan 1.6 Expression Fii,25000000,2012,224.23,Negro,Gasolina
+Renault Logan 1.6 Expression Fii,29950000,2014,92,Plateado,Gasolina
+Renault Logan 1.6 Expression Fii,28000000,2015,122,Color not found,Gasolina
+Renault Logan 1.6 Expression Fii,24800000,2011,107,Gris,Gasolina
+Renault Logan 1.6 Expression Fii,23000000,2012,230,Color not found,Gasolina
+Renault Logan 1.6 Expression Fii,25500000,2012,144,Color not found,Gasolina
+Renault Logan 1.6 Expression Fii,20600000,2011,178,Color not found,Gasolina
+Renault Logan 1.6 Expression Fii,25500000,2011,125.7,Negro,Gasolina
+Renault Logan 1.6 Expression Fii,24500000,2012,92,Negro,Gasolina
+Renault Logan 1.6 Expression Fii,28500000,2015,115,Color not found,Gasolina
+Renault Logan 1.6 Expression Fii,21200000,2012,265,Gris,Gasolina
+Renault Logan 1.6 Expression Mt,31900000,2016,68,Color not found,Gasolina
+Renault Logan 1.6 Expression Nd,18900000,2010,163,Blanco,Gasolina
+Renault Logan 1.6 Expression Nd,19200000,2010,181,Blanco,Gasolina
+Renault Logan 1.6 Expression Nd,21800000,2010,161,Azul,Gasolina
+Renault Logan 1.6 Intens,52000000,2020,38,Gris,Gasolina
+Renault Logan 1.6 Intens,64900000,2023,16,Plateado,Gasolina
+Renault Logan 1.6 Intens,63900000,2023,19.6,Blanco,Gasolina
+Renault Logan 1.6 Intens,70000000,2024,6.3,Plateado,Gasolina
+Renault Logan 1.6 Intens,61900000,2024,16,Blanco,Gasolina
+Renault Logan 1.6 Life,44500000,2023,35.204,Dorado,Gasolina
+Renault Logan 1.6 Life,39990000,2023,73.11,Gris,Gasolina
+Renault Logan 1.6 Life,39000000,2021,27,Gris,Gasolina
+Renault Logan 1.6 Life,41700000,2019,61.191,Gris,Gasolina
+Renault Logan 1.6 Life,44900000,2022,39,Gris,Gasolina
+Renault Logan 1.6 Life,40000000,2021,39.125,Color not found,Gasolina
+Renault Logan 1.6 Life,55000000,2023,21.7,Gris,Gasolina
+Renault Logan 1.6 Life,42800000,2022,18,Color not found,Gasolina
+Renault Logan 1.6 Life,42900000,2021,32,Plateado,Gasolina
+Renault Logan 1.6 Life,45800000,2023,27,Blanco,Gasolina
+Renault Logan 1.6 Life,43500000,2023,28,Plateado,Gasolina
+Renault Logan 1.6 Life,40500000,2020,25.3,Rojo,Gasolina
+Renault Logan 1.6 Life,37000000,2020,56,Negro,Gasolina
+Renault Logan 1.6 Life,43500000,2023,16,Gris,Gasolina
+Renault Logan 1.6 Life,50000000,2023,28,Gris,Gasolina
+Renault Logan 1.6 Life,43900000,2023,27,Blanco,Gasolina
+Renault Logan 1.6 Life,42900000,2021,40,Plateado,Gasolina
+Renault Logan 1.6 Life,40900000,2020,68,Gris,Gasolina
+Renault Logan 1.6 Life,39800000,2020,43,Gris,Gasolina
+Renault Logan 1.6 Life,45000000,2019,68,Gris,Gasolina
+Renault Logan 1.6 Life,39900000,2021,63,Blanco,Gasolina y gas
+Renault Logan 1.6 Life,39500000,2019,23,Plateado,Gasolina
+Renault Logan 1.6 Life,35800000,2018,99,Dorado,Gasolina
+Renault Logan 1.6 Life,47500000,2023,20.9,Plateado,Gasolina
+Renault Logan 1.6 Life,44000000,2020,26,Color not found,Gasolina
+Renault Logan 1.6 Life,40000000,2019,63.594,Color not found,Gasolina
+Renault Logan 1.6 Life,53000000,2021,90,Rojo,Gasolina
+Renault Logan 1.6 Life,54000000,2023,1.36,Gris,Gasolina
+Renault Logan 1.6 Life,43900000,2020,35,Gris,Gasolina
+Renault Logan 1.6 Life,40000000,2019,7,Gris,Gasolina
+Renault Logan 1.6 Life,38900000,2019,90,Gris,Gasolina
+Renault Logan 1.6 Life,47000000,2022,38,Plateado,Gasolina
+Renault Logan 1.6 Life Automatico,38500000,2019,74.5,Plateado,Gasolina
+Renault Logan 1.6 Life Automatico,49500000,2022,26,Gris,Gasolina
+Renault Logan 1.6 life Mecanico,45900000,2023,21,Blanco,Gasolina
+Renault Logan 1.6 Life Mecanico,41500000,2021,54,Gris,Gasolina
+Renault Logan 1.6 Life Plus,65990000,2024,3.839,Blanco,Gasolina
+Renault Logan 1.6 Life Plus,62390000,2024,0,Blanco,Gasolina
+Renault Logan 1.6 Life Plus,65090000,2024,0,Blanco,Gasolina
+Renault Logan 1.6 Life Plus,57900000,2024,18.18,Blanco,Gasolina
+Renault Logan 1.6 Life Plus,56900000,2024,8.4,Blanco,Gasolina
+Renault Logan 1.6 Life Plus,61800000,2024,18,Blanco,Gasolina
+Renault Logan 1.6 Life Plus,67800000,2024,4.8,Blanco,Gasolina
+Renault Logan 1.6 Life Plus,65000000,2024,29,Blanco,Gasolina
+Renault Logan 1.6 Life Polar,38000000,2019,53,Plateado,Gasolina
+Renault Logan 1.6 Life Polar,35000000,2019,35.149,Rojo,Gasolina
+Renault Logan 1.6 Mecanico 2023,49900000,2023,43.7,Blanco,Gasolina
+Renault Logan 1.6 Polar,43000000,2020,49.9,Rojo,Gasolina
+Renault Logan 1.6 Privilege,31000000,2017,102.8,Gris,Gasolina
+Renault Logan 1.6 Privilege,59000000,2023,16.984,Gris,Gasolina
+Renault Logan 1.6 Privilege / Intens,55000000,2023,14,Dorado,Gasolina
+Renault Logan 1.6 Privilege / Intens,34000000,2018,78,Plateado,Gasolina
+Renault Logan 1.6 Privilege / Intens,37000000,2019,65,Blanco,Gasolina
+Renault Logan 1.6 Privilege / Intens,44000000,2020,54.6,Gris,Gasolina
+Renault Logan 1.6 Privilege / Intens,33000000,2017,82,Gris,Gasolina
+Renault Logan 1.6 Privilege / Intens,39900000,2018,73,Blanco,Gasolina
+Renault Logan 1.6 Privilege / Intens,41000000,2018,28,Gris,Gasolina
+Renault Logan 1.6 Privilege / Intens,41500000,2019,37,Plateado,Gasolina
+Renault Logan 1.6 Privilege / Intens,62000000,2023,35.7,Plateado,Gasolina
+Renault Logan 1.6 Privilege / Intens,36900000,2017,80,Gris,Gasolina
+Renault Logan 1.6 Privilege / Intens,58000000,2022,29.3,Color not found,Gasolina
+Renault Logan 1.6 Privilege / Intens,52000000,2021,38,Rojo,Gasolina
+Renault Logan 1.6 Privilege / Intens,42000000,2018,105,Dorado,Gasolina
+Renault Logan 1.6 Privilege / Intens,62900000,2023,4,Gris,Gasolina
+Renault Logan 1.6 Privilege / Intens,43500000,2019,62.81,Gris,Gasolina
+Renault Logan 1.6 Privilege / Intens,48990000,2022,31,Gris,Gasolina
+Renault Logan 1.6 Privilege / Intens,60900000,2022,13.9,Plateado,Gasolina
+Renault Logan 1.6 Privilege / Intens,33900000,2016,99.68,Gris,Gasolina
+Renault Logan 1.6 Privilege / Intens,40000000,2019,77,Gris,Gasolina
+Renault Logan 1.6 Privilege / Intens,37000000,2017,40.479,Negro,Gasolina
+Renault Logan 1.6 Privilege / Intens,40990000,2017,98,Gris,Gasolina
+Renault Logan 1.6 Privilege / Intens,39800000,2019,45,Gris,Gasolina
+Renault Logan 1.6 Privilege / Intens,56300000,2022,23,Color not found,Gasolina
+Renault Logan 1.6 Privilege / Intens,52000000,2021,43.5,Gris,Gasolina
+Renault Logan 1.6 Privilege / Intens,54500000,2022,23,Gris,Gasolina
+Renault Logan 1.6 Privilege / Intens,33800000,2017,123,Plateado,Gasolina
+Renault Logan 1.6 Privilege / Intens,36900000,2017,93.6,Plateado,Gasolina
+Renault Logan 1.6 Privilege / Intens,32900000,2017,51,Dorado,Gasolina
+Renault Logan 1.6 Privilege / Intens,39900000,2020,101,Dorado,Gasolina
+Renault Logan 1.6 Privilege / Intens,35500000,2018,125.7,Gris,Gasolina
+Renault Logan 1.6 Privilege / Intens,40990000,2018,44.3,Gris,Gasolina
+Renault Logan 1.6 Privilege / Intens,47000000,2019,58.777,Plateado,Gasolina
+Renault Logan 1.6 Privilege / Intens,38900000,2017,68,Plateado,Gasolina
+Renault Logan 1.6 Privilege / Intens,56990000,2022,21,Gris,Gasolina
+Renault Logan 1.6 Privilege / Intens,37900000,2018,85,Rojo,Gasolina
+Renault Logan 1.6 Privilege / Intens,52700000,2023,29,Negro,Gasolina
+Renault Logan 1.6 Privilege / Intens,56900000,2022,21.3,Gris,Gasolina
+Renault Logan 1.6 Privilege / Intens,43605000,2020,50.99,Rojo,Gasolina
+Renault Logan 1.6 Privilege / Intens,37500000,2018,79.8,Gris,Gasolina
+Renault Logan 1.6 Privilege / Intens,33800000,2016,96,Color not found,Gasolina
+Renault Logan 1.6 Privilege / Intens,48000000,2020,44.906,Plateado,Gasolina
+Renault Logan 1.6 Privilege / Intens,52500000,2021,36,Gris,Gasolina
+Renault Logan 1.6 Privilege / Intens,38000000,2017,55.029,Plateado,Gasolina
+Renault Logan 1.6 Privilege / Intens,36300000,2018,152,Color not found,Gasolina
+Renault Logan 1.6 Privilege / Intens,66500000,2023,10,Gris,Gasolina
+Renault Logan 1.6 Privilege / Intens,38000000,2016,49.5,Color not found,Gasolina
+Renault Logan 1.6 Privilege / Intens,45000000,2020,60,Gris,Gasolina
+Renault Logan 1.6 Privilege / Intens,36500000,2018,87,Color not found,Gasolina
+Renault Logan 1.6 Privilege / Intens,48000000,2022,53,Gris,Gasolina
+Renault Logan 1.6 Privilege / Intens,36000000,2017,97,Plateado,Gasolina
+Renault Logan 1.6 Privilege / Intens,38000000,2018,94.5,Blanco,Gasolina
+Renault Logan 1.6 Privilege / Intens,39800000,2017,72.4,Color not found,Gasolina
+Renault Logan 1.6 Privilege / Intens,41000000,2018,57,Color not found,Gasolina
+Renault Logan 1.6 Privilege / Intens,54900000,2022,49,Dorado,Gasolina
+Renault Logan 1.6 Privilege / Intens,39000000,2019,127,Color not found,Gasolina
+Renault Logan 1.6 Privilege / Intens,62000000,2023,24,Gris,Gasolina
+Renault Logan 1.6 Privilege / Intens,50000000,2022,61,Color not found,Gasolina
+Renault Logan 1.6 Privilege / Intens,42000000,2018,51,Color not found,Gasolina
+Renault Logan 1.6 Privilege / Intens,35000000,2016,71,Color not found,Gasolina
+Renault Logan 1.6 Privilege / Intens,38000000,2017,110,Dorado,Gasolina
+Renault Logan 1.6 PRIVILEGE AUT,55990000,2021,55,Color not found,Gasolina
+Renault Logan 1.6 PRIVILEGE/PRESTIGE AUTOMATICO,39000000,2016,75,Gris,Gasolina
+Renault Logan 1.6 Privilige Mecanico,39000000,2018,75,Plateado,Gasolina
+Renault Logan 1.6 Zen ,59000000,2022,14.796,Gris,Gasolina
+Renault Logan 1.6 Zen Mt 2023,56900000,2023,51.157,Color not found,Gasolina
+Renault Logan 1.6L EXPRESSION,36800000,2019,62.347,Plateado,Gasolina
+Renault Logan 2.0 Mecanico Sedan,16700000,2000,140,Azul,Gasolina
+Renault Logan 2007,19900000,2007,108,Rojo,Gasolina
+Renault Logan 2012 Dynamique Full Equipo,24800000,2012,138,Rojo,Gasolina
+Renault Logan 2020 Version Polar ,40000000,2020,65,Rojo,Gasolina
+Renault Logan 2021,41000000,2021,75,Gris,Gasolina
+Renault Logan At,47500000,2022,24,Gris,Gasolina
+Renault Logan At 2022,46900000,2022,24,Gris,Gasolina
+Renault Logan Aut 16v Motor Intens 110hp Divino Financiamos,51900000,2023,29,Plateado,Gasolina
+Renault Logan autentique,37900000,2019,60,Blanco,Gasolina
+Renault Logan autentique Eif 1.6 Authentique / Life,38000000,2019,52.7,Rojo,Gasolina
+Renault Logan AUTHENTIQUE  1600CC MT AA,30500000,2016,75.2,Plateado,Gasolina
+Renault Logan AUTHENTIQUE  1600CC MT AA,34000000,2016,102.685,Negro,Gasolina
+Renault Logan Authentique Life,37900000,2020,85.72,Plateado,Gasolina
+Renault Logan AUTHENTIQUE 8V,30900000,2017,Publicado,Plateado,Gasolina
+Renault Logan Authentique Automatico,36800000,2020,80,Plateado,Gasolina
+Renault Logan Authentique Life,36900000,2020,1,Gris,Gasolina
+Renault Logan Authentique Life,35900000,2019,84.462,Plateado,Gasolina
+Renault Logan Authentique Life,42500000,2022,42,Plateado,Gasolina
+Renault Logan Authentique Life 1.6 Mecanico,34500000,2019,43,Plateado,Gasolina
+Renault Logan Authentique life mt 1600cc,35500000,2020,56,Plateado,Gasolina
+"Renault Logan Authentique Mec 1,6",39800000,2018,72.229,Rojo,Gasolina
+Renault Logan Dinamique 1.6 Fe Mt,19500000,2007,86,Plateado,Gasolina
+Renault Logan Dynamique,32900000,2014,81,Gris,Gasolina
+Renault Logan Dynamique,26000000,2010,72,Plateado,Gasolina
+Renault Logan DYNAMIQUE 1.6 MT,28900000,2013,99.686,Gris,Gasolina
+Renault Logan Dynamique Mt,42999000,2019,67.5,Blanco,Gasolina
+Renault Logan Dynamique Mt,27900000,2013,87.325,Blanco,Gasolina
+Renault Logan Exclusive  1600cc At Aa,45000000,2019,49,Gris,Gasolina
+Renault Logan Exclusive 1.6 At Sedan Ejl868,49900000,2019,50.137,Gris,Gasolina
+Renault Logan Exclusive 2019,41999999,2019,59,Gris,Gasolina
+Renault Logan Exclusive 2019,41500000,2019,68,Plateado,Gasolina y gas
+Renault Logan Expression 1.6 MT,20900000,2008,185,Plateado,Gasolina
+Renault Logan Expression,32900000,2014,29.8,Blanco,Gasolina
+Renault Logan Expression,29999999,2015,90,Rojo,Gasolina
+Renault Logan Expression,37900000,2019,64,Gris,Gasolina
+Renault Logan EXPRESSION 1.6,21990000,2011,117,Rojo,Gasolina
+Renault Logan Expression 1.6 Mecanico,36800000,2018,58.5,Plateado,Gasolina
+"Renault Logan Expression Mec 1,6",35800000,2016,70.184,Gris,Gasolina
+Renault Logan Expression Mecanico,34500000,2018,93.5,Plateado,Gasolina
+"Renault Logan EXPRESSION PH2 AT 1,6",54900000,2023,28.1,Gris,Gasolina
+Renault Logan FAMILIAR 1.4,24900000,2013,63.449,Gris,Gasolina
+Renault Logan FAMILIER,25900000,2013,1,Negro,Gasolina
+Renault Logan Familier  1400cc Mt,25500000,2015,129,Rojo,Gasolina
+Renault Logan Familier  1400cc Mt,25000000,2012,134,Azul,Gasolina
+Renault Logan Familier  1400cc Mt Aa,30000000,2014,156.45,Gris,Gasolina
+Renault Logan Familier 2011,26800000,2011,135.092,Gris,Gasolina
+Renault Logan Family 2016,26999999,2016,105,Gris,Gasolina
+Renault Logan Fleet At,47500000,2022,25.7,Color not found,Gasolina
+Renault Logan Intens,72900000,2024,38,Blanco,Gasolina
+Renault Logan intens,40900000,2018,51.078,Rojo,Gasolina
+Renault Logan Intens,43000000,2018,77.908,Gris,Gasolina
+Renault Logan Intens,53900000,2023,23,Gris,Gasolina
+Renault Logan Intens 1.6 Mt,56900000,2022,37.576,Gris,Gasolina
+Renault Logan Intens 1.6 Mt Con Gas,52900000,2022,47.782,Gris,Gasolina y gas
+Renault Logan Intens At 1.6 2023,58900000,2023,1.524,Gris,Gasolina
+Renault Logan Intens Cc1600 Automatico 114hp,59900000,2023,19.699,Blanco,Gasolina
+Renault Logan Intens Mt,64900000,2024,25,Blanco,Gasolina
+Renault Logan LIFE,61000000,2023,0,Blanco,Gasolina
+Renault Logan Life,47900000,2022,39.765,Negro,Gasolina
+Renault Logan LIFE,42000000,2020,27.34,Gris,Gasolina
+Renault Logan Life ,49990000,2023,15,Plateado,Gasolina
+Renault Logan Life +,41000000,2020,45,Gris,Gasolina
+Renault Logan Life +,62896200,2024,0,Gris,Gasolina
+Renault Logan Life +,39500000,2019,48,Rojo,Gasolina
+Renault Logan Life +,37000000,2017,23,Gris,Gasolina
+Renault Logan Life +,49000000,2022,19.7,Gris,Gasolina
+Renault Logan Life +,52000000,2023,31.432,Dorado,Gasolina
+Renault Logan LIFE + MT 1.6,36500000,2019,38,Blanco,Gasolina
+Renault Logan Life + Mt1.6cc 16v 2024,56900000,2024,37.7,Gris,Gasolina
+Renault Logan LIFE 1.6,47300000,2023,34.242,Blanco,Gasolina
+Renault Logan LIFE 1.6,46300000,2022,41.261,Dorado,Gasolina
+Renault Logan LIFE 1.6,47800000,2022,22.949,Gris,Gasolina
+Renault Logan Life 1.6,45000000,2022,22,Dorado,Gasolina
+Renault Logan LIFE 1.6,44000000,2021,42.784,Blanco,Gasolina
+Renault Logan LIFE 1.6,48700000,2023,28.448,Blanco,Gasolina
+Renault Logan Life 1.6 2023 Mq,57296142,2023,0,Blanco,Gasolina
+Renault Logan Life 1.6 Mecanico Sedan,49500000,2023,32.2,Blanco,Gasolina
+Renault Logan Life 1.6 Mecanico Sedan,48500000,2023,26.8,Gris,Gasolina
+Renault Logan Life 1.6 Mecanico Sedan,49500000,2023,17,Gris,Gasolina
+Renault Logan Life 1.6 Mecanico Sedan,49500000,2023,18,Gris,Gasolina
+Renault Logan Life 1.6 Mecanico Sedan,49500000,2023,17.5,Gris,Gasolina
+Renault Logan Life 2022 Gris Estrella Kzp232,39900000,2022,52,Plateado,Gasolina
+Renault Logan Life Automático,47900000,2023,10,Plateado,Gasolina
+Renault Logan Life Mecanico  2023,46800000,2023,33,Blanco,Gasolina
+"Renault Logan Life Mt 1,6",46900000,2023,17.98,Dorado,Gasolina
+Renault Logan Life Mt 1.6cc 16v 2020,40900000,2020,45.6,Plateado,Gasolina
+Renault Logan LIFE MT 1.6CC 8V,39900000,2023,25,Gris,Gasolina
+Renault Logan Life Ph2 ,43500000,2021,47.5,Color not found,Gasolina
+Renault Logan Life Plus 1.6 Mecanico 2023,44900000,2023,42,Plateado,Gasolina
+Renault Logan Life Plus 2024 Ds,63490000,2023,0,Gris,Gasolina
+Renault Logan Life Plus- 2025-remate Excelente Precio!!!,62690000,2023,0,Gris,Gasolina
+Renault Logan LIFE PLUS EXPRESSION 1.6 MT,40400000,2020,29,Gris,Gasolina
+Renault Logan Life Polar 2019,36000000,2019,50.5,Blanco,Gasolina
+Renault Logan Life+,32399999,2017,75,Gris,Gasolina
+Renault Logan Life+ 2024,60890000,2023,0,Blanco,Gasolina
+Renault Logan Life+ Mt 1.6 16v A/a Gpy596,47990000,2020,61.054,Rojo,Gasolina
+Renault Logan Life+ Smart,40500000,2019,44.5,Color not found,Gasolina
+Renault Logan Logan 1.6l,27000000,2008,28.5,Color not found,Gasolina
+Renault Logan Mod 2022 At,50000000,2022,65.543,Gris,Gasolina
+Renault Logan Mod 2022 At,50000000,2022,60.305,Gris,Gasolina
+Renault Logan Mod 2022 At,49000000,2022,55,Gris,Gasolina
+Renault Logan Modelo 2022,55000000,2022,72,Gris,Gasolina
+Renault Logan Mt 1.6 2023,44900000,2023,10,Plateado,Gasolina
+Renault Logan Mt 1.6 2023,46900000,2023,32,Blanco,Gasolina
+Renault Logan Mt 2018,35900000,2018,62,Blanco,Gasolina
+Renault Logan Mt 2020,38900000,2020,71,Plateado,Gasolina
+Renault Logan Mt 2023,44900000,2023,16,Plateado,Gasolina
+Renault Logan Mt 2023,44900000,2023,15,Gris,Gasolina
+Renault Logan Mt 2023,44900000,2023,20,Gris,Gasolina
+Renault Logan Polar,38000000,2020,128.291,Color not found,Gasolina
+Renault Logan Polar 1.6,41500000,2020,64,Gris,Gasolina
+Renault Logan Polar 2020,39000000,2020,7.5,Rojo,Gasolina
+Renault Logan Privilege,37500000,2018,52,Plateado,Gasolina
+Renault Logan Privilege 1.6cc AT AA 4X2,37600000,2017,79,Gris,Gasolina
+Renault Logan Privilege/intense,57800000,2022,32,Gris,Gasolina
+Renault Logan Sedan,24000000,2007,280.357,Color not found,Gasolina
+Renault Logan Zen,53900000,2022,27.69,Rojo,Gasolina
+Renault Logan Zen,54900000,2022,32.084,Gris,Gasolina
+Renault Logan Zen,55800000,2022,11,Plateado,Gasolina
+Renault Logan Zen 1.6 Mt 16v Jym092,50900000,2022,26.892,Gris,Gasolina
+Renault Logan Zen 2023,56000000,2023,18,Gris,Gasolina
+Renault Logan Zen 2024 - Remate Excelente Precio!!,64790000,2023,0,Gris,Gasolina
+Renault Logan Zen Modelo 2021,52900000,2021,29.6,Gris,Gasolina
+Renault Logan Zen Mt 1.600cc Gzx257,52990000,2021,42.828,Rojo,Gasolina
+Renault Logan Zen Mt 1.6cc 16v 2020,37900000,2020,96.8,Rojo,Gasolina
+Renault Loganprivilegeautomatique 46622,37900000,2018,85.182,Gris,Gasolina
+Renault New Logan,45900000,2020,55.976,Gris,Gasolina
+Renault New Logan Exclusive 1.6 Aut 2019 Eny691,47200000,2019,79.052,Gris,Gasolina
+Taxi Intermunicipal Renault Logan Dynamique 2014,40000000,2014,924.8,Blanco,Gasolina

@@ -1,9 +1,11 @@
 ## BIG DATA SEMINARY 👋
-## Construido con 🛠️ GOOGLE COLAB 
+## Built with 🛠️ GOOGLE COLAB 
 
 
-- 🔭 I’m currently working on Biomedical and Osteosynthesis
-- 🌱 I’m currently learning programming
-- 👯 I’m looking to collaborate on Big Data's Project ECCI University
+----> 🟡🔵🔴COLOMBIAN.  
+---> 🔧 I am currently working in Biomedical Maintenance in Orthopedics.
+---> 🌱 I am currently learning programming.
+---> 💻 I am looking to collaborate in the Big Data seminar project at ECCI University.
+---> 🚲 Within my Hobbits riding a bike, listening to music. 
+---> 🗺️ I like to travel and meet
 
--->
